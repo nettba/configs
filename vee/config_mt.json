@@ -1,0 +1,14 @@
+{
+    "API_URL": "https://api.mt-gth-sys.com/v2/",
+    "SOCKET_URL": "wss://ws01.mt-gth-sys.com",
+    "USER_TOKEN": "user_token",
+    "LOGIN_IFRAME": false,
+    "URL_TOKEN": "token",
+    "URL_CODE": "code",
+    "LOBBY_SCENE_NAME": "scene_lobby",
+    "LOGIN_SCENE_NAME": "login-staging-test",
+    "IPMaster1": "wss://staging.fish.enostd.gay/lobby/",
+    "IPMaster1977": "wss://fm.mt-gth-sys.com/",
+    "IPMaster88": "wss://staging.fish.enostd.gay/lobby-1993/",
+    "IS_PRODUCTION": true
+}
