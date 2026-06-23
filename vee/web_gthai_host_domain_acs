@@ -1,0 +1,91 @@
+{
+    "data": {
+        "locate": "",
+        "config": {
+            "banner_names": [
+                "banner_license",
+                "banner_deposit",
+                "banner_cashback"
+            ],
+            "new": "new_test: true",
+            "loginConfig": {
+                "vee.win": {
+                    "tokenEndPoint": "https://login.vee.win/auth/token",
+                    "authEndPoint": "https://login.vee.win/auth/authorize",
+                    "clientID": "vee.win"
+                }
+            },
+            "url_support": {
+                "tele": "https://t.me/Veewinofficial",
+                "line": "https://lin.ee/91UOb3d",
+                "livechat": "https://secure.livechatinc.com/licence/19224198/v2/open_chat.cgi?unique_groups=3&groups=3",
+                "fb": "https://www.facebook.com/veewin.th/"
+            },
+            "gameRulesUrl": "https://play.veewin.top/help/help.html?gid=%gid%&lang=%lang%",
+            "maintain": [
+                11,
+                477,
+                427,
+                18001
+            ],
+            "fanpage": "https://www.facebook.com/",
+            "bonus": {
+                "verify_phone": 0
+            },
+            "liveChatUrl": "https://secure.livechatinc.com/licence/19224198/v2/open_chat.cgi?group=3",
+            "ws_sport_domain": "wss://wssport.brrriab2z.net/websocket",
+            "services": {
+                "paygate": "https://api.brrriab2z.net/paygate",
+                "id": "https://api.brrriab2z.net/id",
+                "sa": "https://api.brrriab2z.net/sa",
+                "gameapi": "https://api100.brrriab2z.net/gameapi/v1/",
+                "gameapi_tmp": "https://api100.brrriab2z.net/gameapi/v1/",
+                "ca": "",
+                "sport": "",
+                "gameProviders": "https://api100.brrriab2z.net/gameapi/public/providers",
+                "mission": "https://api.brrriab2z.net/event"
+            },
+            "linked-services": {},
+            "bannerURLs": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "hotlines": [
+                "0999.888.999"
+            ],
+            "forgotPassword": true,
+            "defaultServer": 0,
+            "useUDT": false,
+            "bankHelpUrl": "https",
+            "sport_domain": "https://sport.brrriab2z.net/",
+            "state": {
+                "funhub": true,
+                "guide_qr": true
+            },
+            "ws": {
+                "card": "wss://websocket.brrriab2z.net/ws-card",
+                "mini": "wss://websocket.brrriab2z.net/websocket",
+                "hilo": "wss://xgames.brrriab2z.net/websocket",
+                "chat_world": "wss://websocket.brrriab2z.net/chat-world",
+                "shakedisk_ws_url": "wss://xgames.brrriab2z.net/websocket",
+                "sport": "wss://wssport.brrriab2z.net/websocket",
+                "dragon_tiger": "wss://rongho.sandboxg1.win/websocket",
+                "dragon_wheel": "wss://websocket.brrriab2z.net/dragon-wheel"
+            },
+            "gid_hidden_list": [
+                400
+            ]
+        },
+        "version": {
+            "c": 0,
+            "pt": "",
+            "id": 3217989,
+            "url": ""
+        }
+    },
+    "status": 0
+}
